@@ -10,7 +10,6 @@ https://www.kaggle.com/datasets/nicolasgonzalezmunoz/world-bank-world-developmen
 https://data.worldbank.org/
 
 ## Dataset Type
-
 Structured (Tabular)
 
 ## File Format
